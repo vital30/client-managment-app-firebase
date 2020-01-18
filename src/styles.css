@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+.btn.btn-success {
+    background-color: #ffffff;
+    color: #28a745;
+}
+
+.btn.btn-danger {
+    background-color: #ffffff;
+    color: #bd2130;
+}
+
+.btn.btn-secondary {
+    background-color: #ffffff;
+    color: #545b62;
+}
